@@ -1,0 +1,15 @@
+body{
+    background-image: 
+    url(house.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+    a:hover {
+        background-color: rgb(78, 0, 0);
+      }
+      a:hover {
+        button: rgb(169, 10, 243);
+      }
+      
+}
+
